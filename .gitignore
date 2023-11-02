@@ -28,3 +28,5 @@ package-lock.json
 tailwind.config.json
 postcss.config.js
 vite.congig.js
+.env
+
